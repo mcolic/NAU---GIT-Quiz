@@ -1,0 +1,34 @@
+﻿1. QUIZ #1
+
+
+
+
+1. What is Github?
+Answer: It is digital storage of different project, which you can share with other users and also edit it, and therefore share the editings. You can ask for accessing the others’ projects and work on them. 
+
+
+1. What is Repository?
+Answer: It a digital directory/ storage to access the files, modify and work on them.
+
+
+1. What is README?
+Answer: README is a file that briefly gives the introduction to repository. Every repository should have a README file. 
+
+
+1. What is an issue?
+Answer: Issues are used to track todos, bugs, feature requests and more. 
+
+
+1. What is pull request?
+Answer: Collaboration on code with other people.
+
+
+1. What is command line? How to create a repo on a command line?
+Answer: Command line/ terminal is a user interface which allows user to interact with computer by giving commands. 
+
+
+Repo from command line: 
+git init (initialization of a new repository)
+git add  <file_name> or --all (to add all files) or directory_name/ (to add all files from specified directory) (add wanted files)
+git commit -m (to commit all changes requested)
+git push (with other commands -- to public the added files into the repository)
